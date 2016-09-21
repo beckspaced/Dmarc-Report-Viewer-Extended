@@ -19,7 +19,7 @@ And just for the fun of it I made use of [SavantPHP - The Simplest Templating Sy
 
 To get SvantPHP running you need [Composer] (https://getcomposer.org/) ... yes, more dependencies ;)
 
-A Dependency Manager for PHP [Composer] (https://getcomposer.org/download/)
+A Dependency Manager for PHP [Composer Download] (https://getcomposer.org/download/)
 
 Installation of the composer is pretty straight forward:
 
@@ -65,7 +65,7 @@ ALTER TABLE `rptrecord` ADD CONSTRAINT `rptrecord_ibfk_1` FOREIGN KEY (`serial`)
 
 Download the required files:
 ```
-git https://github.com/beckspaced/Dmarc-Report-Viewer-Extended.git
+git clone https://github.com/beckspaced/Dmarc-Report-Viewer-Extended.git
 ```
 
 Fill in your basic configuration options at /config/config.php:
@@ -117,5 +117,6 @@ Problems, questions, what-so-ever ... please ask or create a new issue - thanks!
 ### Thank you
 
 Thank you to [techsneeze dmarcts-report-viewer] (https://github.com/techsneeze/dmarcts-report-viewer) and [techsneeze dmarcts-report-parser.pl](https://github.com/techsneeze/dmarcts-report-parser)
+
 Another thank you to [Composer] (https://getcomposer.org/) and [SavantPHP] (https://github.com/7php/SavantPHP)
 
