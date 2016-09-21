@@ -1,0 +1,5 @@
+{
+    "require": {
+        "sevenphp/savantphp": "^3.0"
+    }
+}

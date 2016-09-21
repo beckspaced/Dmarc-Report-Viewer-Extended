@@ -1,0 +1,6 @@
+AuthUserFile /srv/.htpasswd
+AuthName "Restricted Access"
+AuthType Basic
+require user superuser
+
+php_flag display_errors on

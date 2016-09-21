@@ -1,0 +1,50 @@
+[
+    {
+        "name": "sevenphp/savantphp",
+        "version": "3.0.1",
+        "version_normalized": "3.0.1.0",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/7php/SavantPHP.git",
+            "reference": "4a968be6637675a0b78043357e8153ae5f65dbc6"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/7php/SavantPHP/zipball/4a968be6637675a0b78043357e8153ae5f65dbc6",
+            "reference": "4a968be6637675a0b78043357e8153ae5f65dbc6",
+            "shasum": ""
+        },
+        "require": {
+            "php": ">=5.5.0"
+        },
+        "time": "2016-07-09 21:32:59",
+        "type": "library",
+        "installation-source": "dist",
+        "autoload": {
+            "psr-4": {
+                "SavantPHP\\": "src/"
+            }
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "MIT"
+        ],
+        "authors": [
+            {
+                "name": "Wasseem Khayrattee",
+                "email": "savantphp@7php.com"
+            }
+        ],
+        "description": "Savant (SavantPHP) is a simple and minimalistic, yet object-oriented, Templating System For PHP minimalist. It aims at ONE thing, being a simple lightweight TEMPLATING system. The focus is on ONE thing - PHP can do everything, so do everything with PHP, just use SavantPHP for only separating the 'view/templating' concern from your business logic. Hence the philosophy of 'I just want to separate my front layer(view) from the back layer(code logic) in the most simple & effective way & that's it, nothing more, nothing less, nothing else (no added crap)'",
+        "keywords": [
+            "php savant",
+            "php template",
+            "php templating",
+            "savant php",
+            "savantphp",
+            "templates",
+            "templating",
+            "views"
+        ]
+    }
+]
